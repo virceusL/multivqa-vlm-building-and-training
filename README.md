@@ -1,4 +1,4 @@
-# Multi-Image SFT Training and Testing
+# Multi-VQA VLM Building and Training (Nov, 2024)
 
 Build VLM based on SigLIP and Qwen2.5-0.5B, pre-train the fusion layer and do instruction-tuning with LoRA on Multi-VQA task.
 
