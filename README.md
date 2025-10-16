@@ -29,17 +29,5 @@ pip install -r requirements.txt
 Adjust dataset paths and hyperparameters inside the corresponding scripts as needed.
 
 
-## Files of interest
-
-- Model implementation: `model.py`
-- Base training loop: `train.py`
-- SFT on multi-image inputs: `sft_train_multi_images.py`
-- Multi-VQA Test: `test_multi_images.py`
-- Dependencies: `requirements.txt`
-
-
-
-
-
 ## Output
 `pre_output/` and `sft_output/`
